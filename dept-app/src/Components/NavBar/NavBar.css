@@ -1,0 +1,19 @@
+#link {
+  width: 33.3%;
+  text-decoration: none;
+}
+#submenu {
+  text-decoration: none;
+}
+
+.logo {
+  height: 50px;
+  width: 140px;
+}
+
+@media (max-width: 550px) {
+}
+@media (min-width: 551px) and (max-width: 767px) {
+}
+@media (min-width: 768px) and (max-width: 826px) {
+}

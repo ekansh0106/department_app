@@ -1,0 +1,10 @@
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const LOGIN_ERROR = "LOGIN_ERROR";
+export const LOGOUT_SUCCESS = "LOGOUT_SUCCESS";
+export const SET_CURRENT_USER = "SET_CURRENT_USER";
+export const BEFORE_USER_STATE = "BEFORE_USER_STATE";
+export const BEFORE_STATE = "BEFORE_STATE";
+
+// ERRORS
+export const GET_ERRORS = "GET_ERRORS";
+export const CLEAR_ERRORS = "CLEAR_ERRORS";
